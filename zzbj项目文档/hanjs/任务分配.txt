@@ -1,0 +1,8 @@
+杜超:  请求头user-agent与di验证
+       Httpclient切换连接池
+       基础类封装与改造
+
+牛震:  接入mq
+       redis接入
+       切换log框架
+       定时器优化
